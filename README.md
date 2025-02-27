@@ -1,13 +1,8 @@
 # 📌 Dự án Flask Tiny App
 
-## 👤 Thông tin cá nhân
-***Sinh viên 1***  
+## 👤 Thông tin cá nhân 
 - *Họ và tên*: Nguyễn Gia Lâm 
 - *Mã số sinh viên*: 22685611
-- 
-***Sinh viên 2***  
-- *Họ và tên*: Trương Công Đạt
-- *Mã số sinh viên*: 22685561
 ## 📝 Mô tả dự án  
 - Dự án **Flask Blog** là một nền tảng blog đơn giản được xây dựng bằng ***flask***, ***html***, ***css*** và ***sqlite***.  
 - Người dùng có thể thực hiện đăng ký tài khoản rồi đăng nhập. Sau khi đăng nhập người dùng có thể sử dụng các chức năng của ứng dụng như *tạo, chỉnh sửa và xóa bài viết nếu cần*.   
