@@ -1,4 +1,4 @@
-# 📌 Dự án Flask Blog
+# 📌 Dự án Flask Tiny App
 
 ## 👤 Thông tin cá nhân
 ***Sinh viên 1***  
